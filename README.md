@@ -1,6 +1,8 @@
 # 42Cursus-Born2beRoot
 This project is part of the 42Lisboa curriculum and aims to create a virtual machine running Debian, as well as set up a server by installing and configuring multiple services and security rules such as APT, AppArmor, SSH, UFW, sudo, Password Policy, and Crontab.
 
+For more information see the [subject](./subject.pdf).
+
 For this project, a CronJob was created to run a monitoring script every 10 minutes, logging system status information to the console as detailed below:
 
 - The architecture of your operating system and its kernel version.
